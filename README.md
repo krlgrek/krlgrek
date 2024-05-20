@@ -6,7 +6,7 @@ Frontend Developer
 
 Work on profile design in progress
 
-* ✉️  You can contact me at [k.grekow@yandex.ru](mailto:k.grekow@yandex.ru)
+* ✉️  You can contact me at [krlgrek@protonmail.com](mailto:krlgrek@protonmail.com)
 
 ### Skills
 
