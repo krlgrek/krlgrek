@@ -18,4 +18,4 @@ Work on profile design in progress
 
 <p align="left"> <a href="https://www.github.com/morgven" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
-![Codewars](https://github.r2v.ch/codewars?user=krlgrek&theme=gradient&hide_clan=true&animation=false)
+[![codewars](https://www.codewars.com/users/krlgrek/badges/large)](https://www.codewars.com/users/krlgrek)
