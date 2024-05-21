@@ -1,17 +1,30 @@
+![](./images/banner.png)
+
 ### Hi there, I'm Kirill Grekov
 
 frontend dev and tea addict 🫖🍵
 
 ### Skills
 
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
-</p>
+![Static Badge](https://img.shields.io/badge/HTML-%23054D31?style=flat&logo=html5)
+![Static Badge](https://img.shields.io/badge/CSS-%23054D31?style=flat&logo=css3&logoColor=%231572B6)
+![Static Badge](https://img.shields.io/badge/JavaScript-%23054D31?style=flat&logo=javascript)
+![Static Badge](https://img.shields.io/badge/Git-%23054D31?style=flat&logo=git)
+![Static Badge](https://img.shields.io/badge/VS%20Code-%23054D31?style=flat&logo=visualstudiocode&logoColor=007ACC)
+![Static Badge](https://img.shields.io/badge/SASS-%23054D31?style=flat&logo=sass&logoColor=%23CC6699)
+![Static Badge](https://img.shields.io/badge/Webpack-%23054D31?style=flat&logo=webpack&logoColor=%238DD6F9)
+![Static Badge](https://img.shields.io/badge/Gulp-%23054D31?style=flat&logo=gulp&logoColor=%23CF4647)
+
+### Tools
+
+![Static Badge](https://img.shields.io/badge/Todoist-%23054D31?style=flat&logo=todoist&logoColor=%23E44332)
+![Static Badge](https://img.shields.io/badge/Obsidian-%23054D31?style=flat&logo=obsidian&logoColor=%237C3AED)
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/morgven" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+![Static Badge](https://img.shields.io/badge/Telegram-054D31?style=flat&logo=telegram&link=https%3A%2F%2Ft.me%2Fkrlgrek)
+![Static Badge](https://img.shields.io/badge/Mail-%23054D31?style=flat&logo=protonmail&link=mailto%3Akrlgrek%40protonmail.com)
 
 ### Codewars
 
-[![codewars](https://www.codewars.com/users/krlgrek/badges/large)](https://www.codewars.com/users/krlgrek)
+[![codewars](https://www.codewars.com/users/krlgrek/badges/small)](https://www.codewars.com/users/krlgrek/badges/small)
