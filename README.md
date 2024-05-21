@@ -13,7 +13,7 @@ frontend dev and tea addict 🫖🍵
 ![Static Badge](https://img.shields.io/badge/VS%20Code-%23054D31?style=flat&logo=visualstudiocode&logoColor=007ACC)
 ![Static Badge](https://img.shields.io/badge/SASS-%23054D31?style=flat&logo=sass&logoColor=%23CC6699)
 ![Static Badge](https://img.shields.io/badge/Webpack-%23054D31?style=flat&logo=webpack&logoColor=%238DD6F9)
-![Static Badge](https://img.shields.io/badge/Gulp-%23054D31?style=flat&logo=gulp&logoColor=%23CF4647)
+![gulp](./images/gulp.svg)
 
 ### Tools
 
@@ -22,8 +22,8 @@ frontend dev and tea addict 🫖🍵
 
 ### Socials
 
-![Static Badge](https://img.shields.io/badge/Telegram-054D31?style=flat&logo=telegram&link=https%3A%2F%2Ft.me%2Fkrlgrek)
-![Static Badge](https://img.shields.io/badge/Mail-%23054D31?style=flat&logo=protonmail&link=mailto%3Akrlgrek%40protonmail.com)
+[![telegram](./images/telegram.svg)](https%3A%2F%2Ft.me%2Fkrlgrek)
+[![e-mail](./images/mail.svg)](mailto%3Akrlgrek%40protonmail.com)
 
 ### Codewars
 
