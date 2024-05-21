@@ -17,8 +17,8 @@ frontend dev and tea addict 🫖🍵
 
 ### Tools
 
-![Static Badge](https://img.shields.io/badge/Todoist-%23054D31?style=flat&logo=todoist&logoColor=%23E44332)
 ![Static Badge](https://img.shields.io/badge/Obsidian-%23054D31?style=flat&logo=obsidian&logoColor=%237C3AED)
+![Static Badge](https://img.shields.io/badge/Todoist-%23054D31?style=flat&logo=todoist&logoColor=%23E44332)
 
 ### Socials
 
@@ -27,4 +27,4 @@ frontend dev and tea addict 🫖🍵
 
 ### Codewars
 
-[![codewars](https://www.codewars.com/users/krlgrek/badges/small)](https://www.codewars.com/users/krlgrek/badges/small)
+[![codewars](https://www.codewars.com/users/krlgrek/badges/large)](https://www.codewars.com/users/krlgrek/badges/large)
