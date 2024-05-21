@@ -22,8 +22,8 @@ frontend dev and tea addict 🫖🍵
 
 ### Socials
 
-[![telegram](./images/telegram.svg)](https%3A%2F%2Ft.me%2Fkrlgrek)
-[![e-mail](./images/mail.svg)](mailto%3Akrlgrek%40protonmail.com)
+[![telegram](./images/telegram.svg)](https://t.me/krlgrek)
+[![e-mail](./images/mail.svg)](mailto:krlgrek@protonmail.com)
 
 ### Codewars
 
