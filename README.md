@@ -1,12 +1,6 @@
-Hi 👋 My name is Kirill Grekov
-=============================
+### Hi there, I'm Kirill Grekov
 
-Frontend Developer
-------------------
-
-Work on profile design in progress
-
-* ✉️  You can contact me at [krlgrek@protonmail.com](mailto:krlgrek@protonmail.com)
+frontend dev and tea addict 🫖🍵
 
 ### Skills
 
@@ -17,5 +11,7 @@ Work on profile design in progress
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/morgven" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+
+### Codewars
 
 [![codewars](https://www.codewars.com/users/krlgrek/badges/large)](https://www.codewars.com/users/krlgrek)
