@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Kirill Grekov
 
-frontend dev and tea addict 🫖🍵
+sysadm, slightly frontend, QA and tea addict 🫖🍵
 
 ### Skills
 
@@ -24,7 +24,3 @@ frontend dev and tea addict 🫖🍵
 
 [![telegram](./images/telegram.svg)](https://t.me/krlgrek)
 [![e-mail](./images/mail.svg)](mailto:krlgrek@protonmail.com)
-
-### Codewars
-
-[![codewars](https://www.codewars.com/users/krlgrek/badges/large)](https://www.codewars.com/users/krlgrek)
