@@ -9,6 +9,7 @@ sysadm, slightly frontend, QA and tea addict 🫖🍵
 
 ### 🛠️ Tools & Workflows
 `Obsidian` `GTD` `Todoist`
+*I don't trust anything that isn't documented, synced, and backed up following the 3-2-1 rule 📄🔄💾*
 
 ### 📡 Socials
 📨 **Telegram:** [@krlgrek](https://t.me/krlgrek)  
