@@ -11,4 +11,4 @@ sysadm, slightly frontend, QA and tea addict 🫖🍵
 `Obsidian` `GTD` `Todoist`
 
 ### Socials
-`Telegram: @krlgrek`
+`Telegram:` @krlgrek `E-Mail:` k.grekow@yandex.ru
