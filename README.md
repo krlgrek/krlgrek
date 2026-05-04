@@ -1,14 +1,15 @@
 ![](./images/banner.png)
 
-### Hi there, I'm Kirill Grekov
+### 👋 Hi there, I'm Name Surname
 
 sysadm, slightly frontend, QA and tea addict 🫖🍵
 
-### Skills
+### 🧰 Skills
 `Windows Server` `Active Directory` `GPO` `RDP` `PC Assembly & Repair` `MikroTik` `TCP/IP` `VPN` `DNS` `DHCP` `VMware` `Bash` `PowerShell` `Python` `JavaScript` `YouTrack` `SQL` `LDAP` `Network Administration` `SSH` `Access Control Systems` `Linux` `Git` `REST API` `Mail Server (SMTP/IMAP)` `Postfix`
 
-### Tools
+### 🛠️ Tools & Workflows
 `Obsidian` `GTD` `Todoist`
 
-### Socials
-`Telegram:` @krlgrek `E-Mail:` k.grekow@yandex.ru
+### 📡 Socials
+📨 **Telegram:** [@krlgrek](https://t.me/krlgrek)  
+📧 **E-mail:** [k.grekow@yandex.ru](mailto:k.grekow@yandex.ru)
